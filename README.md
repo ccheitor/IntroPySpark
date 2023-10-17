@@ -8,6 +8,9 @@ Este repositório apresenta um setup inicial para utilização do Apache Spark. 
 
 > Os dados fazem parte de um dos trabalhos executados durante o curso de Engenheiro de dados Cloud da XP Educação
 
+- [Download Repositorio UFMG][1]
+- [IMDB Descrição][2]
+
 ## Requisitos
 
 Para aproveitar ao máximo este repositório, é recomendado:
@@ -20,8 +23,9 @@ Para aproveitar ao máximo este repositório, é recomendado:
 
 ## Como Usar
 
-1. Clone o repositório em seu ambiente local:
-
+1. Clone o repositório em seu ambiente local
+2. Baixe os arquivos e carrgue no seu projeto
+3. Execute o notebook
 
 ## Questionamentos
 
@@ -46,3 +50,9 @@ Para aproveitar ao máximo este repositório, é recomendado:
 
 10. <details><summary>Qual é a menor nota média de um filme?</summary>
     Resposta: 1.0 </details>
+    
+
+
+[1]: https://homepages.dcc.ufmg.br/~pcalais/XPE/engenharia-dados/big-data-spark/trabalho-pratico/
+
+[2]: https://www.imdb.com/interfaces/
